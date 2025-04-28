@@ -14,7 +14,7 @@ This experiment investigates the performance impact of fine-tuning by comparing 
   - [Open-ended question version](./data/test_tcm_benchmark/tcm_benchmark_converted.json)
   - [Single-choice version](./data/test_tcm_benchmark/traditional_chinese_medicine.json)
 
-- **Size:**Contains 185 questions-answers
+- **Size:** Contains 185 questions-answers
 - **Evaluation method:** Rule-based scoring (model receives credit if its response contains key answer phrases)
 
 ###  Model Preparation
@@ -22,9 +22,9 @@ This experiment investigates the performance impact of fine-tuning by comparing 
 - **Base model:** `internlm2_5-7b-chat`
 - **Fine-tuning method:** QLoRA
 - **Training data:**
-  - 1. Source: [ShenNong_TCM_Dataset](https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset)(113KQA pairs) -> 2. Quality enhancement: Processed using `deepseek-v3` -> 3. Data file:[Enhanced data file](./data/train_improved_qa/improved_output_converted.json)(16,314 QA pairs)
+  - 1. Source: [ShenNong_TCM_Dataset](https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset)(113KQA pairs) -> 2. Quality enhancement: Processed using `deepseek-v3` -> 3. Data file: [Enhanced data file](./data/train_improved_qa/improved_output_converted.json)(16,314 QA pairs)
 - **Parameter scale:** All compared models have similar parameter counts
-- **Training config file:**[internlm2_5_chat_7b_qlora_tcm.py](./train/internlm2_5_chat_7b_qlora_tcm.py)
+- **Training config file:** [internlm2_5_chat_7b_qlora_tcm.py](./train/internlm2_5_chat_7b_qlora_tcm.py)
 
 
 #### Training Process
@@ -39,7 +39,7 @@ This experiment investigates the performance impact of fine-tuning by comparing 
   - Average training time per step: 1.3943s
   - Average data loading time: 0.0150s
   - Average memory usage: 15487.87 MB
-- ****Visualization data:** `./train/20250427_083447/vis_data`
+- **Visualization data:**  `./train/20250427_083447/vis_data`
 
 
 ### Experiment Result
@@ -71,17 +71,15 @@ Compare the performance of **InternLM2-5-7B-SFT** and **InternLM2-5-7B-Chat** on
 
 ### Technical Details of RAG and Graph RAG Configurations
 
-- **Graph RAG**:
-
+- **Graph RAG:**
   - **Knowledge graph search depth**: 3 (traversing up to 3 hops in the graph).
-
+  
   - **Relation frequency-based filtering**: Low-frequency relations are excluded during search to improve relevance.
-
-- **RAG Retrieval**:
-
-  - **Hybrid retrieval mode**: Combines **Chroma-based** and **BM25** methods.
-
-  - **Weighting**:
+  
+- **RAG Retrieval:**
+  - **Hybrid retrieval mode:** Combines **Chroma-based** and **BM25** methods.
+  
+  - **Weighting:**
     - Chroma-based retrieval: 0.6 (semantic similarity focus).
     - BM25: 0.4 (lexical/sparse retrieval focus).
 
