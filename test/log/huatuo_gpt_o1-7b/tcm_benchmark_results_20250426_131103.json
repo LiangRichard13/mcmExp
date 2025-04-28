@@ -1,0 +1,2413 @@
+{
+  "total": 185,
+  "correct": 154,
+  "accuracy": 83.24324324324324,
+  "timestamp": "2025-04-26 13:25:41",
+  "results": [
+    {
+      "id": 0,
+      "question": "无法提取问题",
+      "options": "\"肾阴虚而肝阳亢\",\"肾阴虚而相火动\",\"心阴虚而心阳亢\",\"肾阴虚而心火旺\"",
+      "response": "“泻南补北”法适用于“肾阴虚而心火旺”。",
+      "expected": [
+        [
+          "肾阴虚而心火旺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾阴虚而心火旺"
+    },
+    {
+      "id": 1,
+      "question": "无法提取问题",
+      "options": "\"易耗气伤津\",\"易为阳热症状\",\"易生风动血\",\"易伤人体上部及肌表\"",
+      "response": "\"易耗气伤津\"",
+      "expected": [
+        [
+          "易耗气伤津"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "易耗气伤津"
+    },
+    {
+      "id": 2,
+      "question": "无法提取问题",
+      "options": "\"肝\",\"脉\",\"冲脉\",\"心\"",
+      "response": "“血之府”是指“脉”。",
+      "expected": [
+        [
+          "脉"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脉"
+    },
+    {
+      "id": 3,
+      "question": "无法提取问题",
+      "options": "\"真虚假实\",\"虚实夹杂\",\"真实假虚\",\"虚中夹实\"",
+      "response": "“大实有羸状”的病机应属于“真实假虚”。",
+      "expected": [
+        [
+          "真实假虚"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "真实假虚"
+    },
+    {
+      "id": 4,
+      "question": "无法提取问题",
+      "options": "\"木克土\",\"火生土\",\"水克木\",\"金生水\"",
+      "response": "水克木",
+      "expected": [
+        [
+          "水克木"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "水克木"
+    },
+    {
+      "id": 5,
+      "question": "无法提取问题",
+      "options": "\"益气解表\",\"助阳解表\",\"滋阴解表\",\"养血解表\"",
+      "response": "答案是“滋阴解表”。",
+      "expected": [
+        [
+          "滋阴解表"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "滋阴解表"
+    },
+    {
+      "id": 6,
+      "question": "无法提取问题",
+      "options": "\"寒气积于胸中\",\"血凝泣\",\"卫气不得泄越\",\"脉不通\"",
+      "response": "“脉不通”",
+      "expected": [
+        [
+          "卫气不得泄越"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 7,
+      "question": "无法提取问题",
+      "options": "\"肺\",\"肝\",\"肾\",\"脾\"",
+      "response": "system\nYou are HuatuoGPT-o1, created by The Chinese University of Hong Kong, Shenzhen. You are a helpful assistant.\nuser\n问题：请在提供的选项中选择回答\n问题：“内湿的产生与哪一脏的关系最为密切”\n选项：\"肺\",\"肝\",\"肾\",\"脾\"\n仅需直接给出答案,不需要做其他解释\nassistant\n脾",
+      "expected": [
+        [
+          "脾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脾"
+    },
+    {
+      "id": 8,
+      "question": "无法提取问题",
+      "options": "\"15～18g\",\"3～6g\",\"5～8g\",\"8～15g\"",
+      "response": "罂粟壳每张处方用量规定为“3～6g”。",
+      "expected": [
+        [
+          "3～6g"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "3～6g"
+    },
+    {
+      "id": 9,
+      "question": "无法提取问题",
+      "options": "\"脾气\",\"肾阳\",\"心阳\",\"肺气\"",
+      "response": "答案是：“肾阳”。",
+      "expected": [
+        [
+          "肾阳"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾阳"
+    },
+    {
+      "id": 10,
+      "question": "无法提取问题",
+      "options": "\"肾精不足\",\"肝阳上亢\",\"痰浊中阻\",\"瘀血阻络\"",
+      "response": "\"瘀血阻络\"",
+      "expected": [
+        [
+          "瘀血阻络"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "瘀血阻络"
+    },
+    {
+      "id": 11,
+      "question": "无法提取问题",
+      "options": "\"瘫痪\",\"痿病\",\"痹病\",\"痫病\"",
+      "response": "答案是：“痿病”。",
+      "expected": [
+        [
+          "痿病"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "痿病"
+    },
+    {
+      "id": 12,
+      "question": "无法提取问题",
+      "options": "\"朱丹溪\",\"吴又可\",\"吴鞠通\",\"刘完素\"",
+      "response": "在温病学方面，创立以“三焦为核心”的辨证论治方法的医家是吴鞠通。",
+      "expected": [
+        [
+          "吴鞠通"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "吴鞠通"
+    },
+    {
+      "id": 13,
+      "question": "无法提取问题",
+      "options": "\"五脏内藏气血\",\"五脏内舍五志\",\"五脏内藏精气\",\"五脏内守中气\"",
+      "response": "\"五脏者，中之守也\"是指\"五脏内藏精气\"。",
+      "expected": [
+        [
+          "五脏内藏精气"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "五脏内藏精气"
+    },
+    {
+      "id": 14,
+      "question": "无法提取问题",
+      "options": "\"气缓\",\"气上\",\"气结\",\"气乱\"",
+      "response": "根据《素问·举痛论》的记载，“惊则气乱”。因此，正确答案是“气乱”。",
+      "expected": [
+        [
+          "气乱"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "气乱"
+    },
+    {
+      "id": 15,
+      "question": "无法提取问题",
+      "options": "\"阴阳失调\",\"阴阳偏盛\",\"阴阳离决\",\"阴阳偏衰\"",
+      "response": "答案是：“阴阳离决”。",
+      "expected": [
+        [
+          "阴阳离决"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "阴阳离决"
+    },
+    {
+      "id": 16,
+      "question": "无法提取问题",
+      "options": "\"湿热蕴脾证\",\"寒湿困脾证\",\"大肠湿热证\",\"肝胆湿热证\"",
+      "response": "肝胆湿热证",
+      "expected": [
+        [
+          "肝胆湿热证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝胆湿热证"
+    },
+    {
+      "id": 17,
+      "question": "无法提取问题",
+      "options": "\"足阳明胃经\",\"足厥阴肝经\",\"足少阴肾经\",\"足太阴脾经\"",
+      "response": "足太阴脾经",
+      "expected": [
+        [
+          "足厥阴肝经"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 18,
+      "question": "无法提取问题",
+      "options": "\"热邪壅肺证\",\"燥邪犯肺证\",\"肝火犯肺证\",\"肺阴虚证\"",
+      "response": "\"肺阴虚证\"",
+      "expected": [
+        [
+          "肺阴虚证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肺阴虚证"
+    },
+    {
+      "id": 19,
+      "question": "无法提取问题",
+      "options": "\"胆\",\"小肠\",\"胃\",\"大肠\"",
+      "response": "小肠",
+      "expected": [
+        [
+          "小肠"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "小肠"
+    },
+    {
+      "id": 20,
+      "question": "无法提取问题",
+      "options": "\"魄门\",\"幽门\",\"贲门\",\"阑门\"",
+      "response": "答案是“阑门”。",
+      "expected": [
+        [
+          "幽门"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 21,
+      "question": "无法提取问题",
+      "options": "\"狂证\",\"郁证\",\"痴呆\",\"癫证\"",
+      "response": "答案是：“癫证”。",
+      "expected": [
+        [
+          "癫证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "癫证"
+    },
+    {
+      "id": 22,
+      "question": "无法提取问题",
+      "options": "\"痰热腑实，风痰上扰\",\"肝阳暴亢，风火上扰\",\"元神败脱，神明散乱\",\"风痰瘀血，痹阻脉络\"",
+      "response": "风痰瘀血，痹阻脉络",
+      "expected": [
+        [
+          "风痰瘀血，痹阻脉络"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "风痰瘀血，痹阻脉络"
+    },
+    {
+      "id": 23,
+      "question": "无法提取问题",
+      "options": "\"阴盛慎用寒药\",\"假寒慎用寒药\",\"冬季慎用寒药\",\"阳虚慎用寒药\"",
+      "response": "答案是“冬季慎用寒药”。",
+      "expected": [
+        [
+          "冬季慎用寒药"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "冬季慎用寒药"
+    },
+    {
+      "id": 24,
+      "question": "无法提取问题",
+      "options": "\"太平圣惠方\",\"本草纲目\",\"黄帝内经\",\"普济方\"",
+      "response": "\"普济方\"",
+      "expected": [
+        [
+          "普济方"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "普济方"
+    },
+    {
+      "id": 25,
+      "question": "无法提取问题",
+      "options": "\"活血、利尿、清热、解毒\",\"活血、利尿、清热、通便\",\"活血、利尿、凉血、止血\",\"活血、利尿、消症、散结\"",
+      "response": "答案是：“活血、利尿、清热、解毒”。",
+      "expected": [
+        [
+          "活血、利尿、清热、解毒"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "活血、利尿、清热、解毒"
+    },
+    {
+      "id": 26,
+      "question": "无法提取问题",
+      "options": "\"痰浊阻肺\",\"风寒袭肺\",\"肺气郁痹\",\"表寒里热\"",
+      "response": "风寒袭肺",
+      "expected": [
+        [
+          "风寒袭肺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "风寒袭肺"
+    },
+    {
+      "id": 27,
+      "question": "无法提取问题",
+      "options": "\"面色萎黄\",\"面目一身俱黄\",\"面色青黄\",\"面黄虚浮\"",
+      "response": "“面色萎黄”",
+      "expected": [
+        [
+          "面黄虚浮"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 28,
+      "question": "无法提取问题",
+      "options": "\"暗示疗法\",\"释疑解惑\",\"发泄解郁\",\"诱导疗法\"",
+      "response": "答案是：暗示疗法。",
+      "expected": [
+        [
+          "暗示疗法"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "暗示疗法"
+    },
+    {
+      "id": 29,
+      "question": "无法提取问题",
+      "options": "\"精\",\"气\",\"神\",\"血\"",
+      "response": "气",
+      "expected": [
+        [
+          "气"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "气"
+    },
+    {
+      "id": 30,
+      "question": "无法提取问题",
+      "options": "\"流涕的清与浊\",\"头痛身疼与否\",\"恶寒发热的孰轻孰重\",\"渴与不渴\"",
+      "response": "system\nYou are HuatuoGPT-o1, created by The Chinese University of Hong Kong, Shenzhen. You are a helpful assistant.\nuser\n问题：请在提供的选项中选择回答\n问题：“下列除哪项外，均为风寒感冒与风热感冒的主要鉴别依据”\n选项：\"流涕的清与浊\",\"头痛身疼与否\",\"恶寒发热的孰轻孰重\",\"渴与不渴\"\n仅需直接给出答案,不需要做其他解释\nassistant\n头痛身疼与否",
+      "expected": [
+        [
+          "头痛身疼与否"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "头痛身疼与否"
+    },
+    {
+      "id": 31,
+      "question": "无法提取问题",
+      "options": "\"胃寒证\",\"脾阳虚证\",\"外感寒湿证\",\"寒湿困脾证\"",
+      "response": "临床诊断最可能是“寒湿困脾证”。",
+      "expected": [
+        [
+          "寒湿困脾证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "寒湿困脾证"
+    },
+    {
+      "id": 32,
+      "question": "无法提取问题",
+      "options": "\"气滞血瘀证\",\"心气虚证\",\"气滞心脉证\",\"肝气郁结证\"",
+      "response": "气滞心脉证",
+      "expected": [
+        [
+          "气滞心脉证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "气滞心脉证"
+    },
+    {
+      "id": 33,
+      "question": "无法提取问题",
+      "options": "\"阴寒凝滞\",\"心血瘀阻\",\"痰浊壅塞\",\"阳气虚衰\"",
+      "response": "痰浊壅塞",
+      "expected": [
+        [
+          "痰浊壅塞"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "痰浊壅塞"
+    },
+    {
+      "id": 34,
+      "question": "无法提取问题",
+      "options": "\"主持诸气\",\"受纳腐熟\",\"传化糟粕\",\"受盛化物\"",
+      "response": "答案是：“受纳腐熟”。",
+      "expected": [
+        [
+          "受纳腐熟"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "受纳腐熟"
+    },
+    {
+      "id": 35,
+      "question": "无法提取问题",
+      "options": "\"氢化可的松\",\"氯氮平\",\"呋喃唑酮\",\"碳酸锂\"",
+      "response": "答案是：“氢化可的松”。",
+      "expected": [
+        [
+          "氢化可的松"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "氢化可的松"
+    },
+    {
+      "id": 36,
+      "question": "无法提取问题",
+      "options": "\"取之寒\",\"取之热\",\"取之阳\",\"取之阴\"",
+      "response": "答案是：“取之寒”。",
+      "expected": [
+        [
+          "取之阴"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 37,
+      "question": "无法提取问题",
+      "options": "\"动与静\",\"邪与正\",\"上与下\",\"寒与热\"",
+      "response": "“邪与正”",
+      "expected": [
+        [
+          "邪与正"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "邪与正"
+    },
+    {
+      "id": 38,
+      "question": "无法提取问题",
+      "options": "\"真寒假热证\",\"真热假寒证\",\"表实里虚证\",\"上热下寒证\"",
+      "response": "上热下寒证",
+      "expected": [
+        [
+          "真寒假热证"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 39,
+      "question": "无法提取问题",
+      "options": "\"小肠\",\"脾\",\"大肠\",\"胃\"",
+      "response": "胃",
+      "expected": [
+        [
+          "胃"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "胃"
+    },
+    {
+      "id": 40,
+      "question": "无法提取问题",
+      "options": "\"时令晨昏对人体有影响\",\"人体是一个整体，人和自然界相互统一\",\"五脏与六腑是一个整体\",\"自然界是一个整体\"",
+      "response": "答案是：人体是一个整体，人和自然界相互统一。",
+      "expected": [
+        [
+          "人体是一个整体，人和自然界相互统一"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "人体是一个整体，人和自然界相互统一"
+    },
+    {
+      "id": 41,
+      "question": "无法提取问题",
+      "options": "\"甘草酸\",\"甘草甜素\",\"马兜铃酸\",\"鞣酸\"",
+      "response": "长期使用会造成肾衰的成分是“马兜铃酸”。",
+      "expected": [
+        [
+          "马兜铃酸"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "马兜铃酸"
+    },
+    {
+      "id": 42,
+      "question": "无法提取问题",
+      "options": "\"心律失常，如心率减慢、早搏、房室传导阻滞\",\"直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死\",\"恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血\",\"血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少\"",
+      "response": "香加皮的主要不良反应是\"心律失常，如心率减慢、早搏、房室传导阻滞\"。",
+      "expected": [
+        [
+          "心律失常，如心率减慢、早搏、房室传导阻滞"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "心律失常，如心率减慢、早搏、房室传导阻滞"
+    },
+    {
+      "id": 43,
+      "question": "无法提取问题",
+      "options": "\"10-15分钟\",\"60分钟\",\"20-30分钟\",\"30-45分钟\"",
+      "response": "答案是：“30-45分钟”。",
+      "expected": [
+        [
+          "60分钟"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 44,
+      "question": "无法提取问题",
+      "options": "\"珍菊降压片与复方枇杷糖浆\",\"天麻丸与川贝枇杷胶囊\",\"苏合香丸与胆宁片\",\"二陈丸与平胃散\"",
+      "response": "二陈丸与平胃散",
+      "expected": [
+        [
+          "二陈丸与平胃散"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "二陈丸与平胃散"
+    },
+    {
+      "id": 45,
+      "question": "无法提取问题",
+      "options": "\"阴中之至阴\",\"阴中之阳\",\"阴中之阴\",\"阳中之阴\"",
+      "response": "答案是：“阴中之至阴”。",
+      "expected": [
+        [
+          "阴中之至阴"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "阴中之至阴"
+    },
+    {
+      "id": 46,
+      "question": "无法提取问题",
+      "options": "\"早餐后服\",\"饭后服\",\"睡前服\",\"空腹服\"",
+      "response": "饭后服",
+      "expected": [
+        [
+          "饭后服"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "饭后服"
+    },
+    {
+      "id": 47,
+      "question": "无法提取问题",
+      "options": "\"宗气\",\"营气\",\"卫气\",\"元气\"",
+      "response": "答案是“宗气”。",
+      "expected": [
+        [
+          "宗气"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "宗气"
+    },
+    {
+      "id": 48,
+      "question": "无法提取问题",
+      "options": "\"正气虽虚尚可耐攻\",\"先扶正可致留邪\",\"先祛邪不会伤正\",\"标症紧急先治其标\"",
+      "response": "答案是：“正气虽虚尚可耐攻”。",
+      "expected": [
+        [
+          "正气虽虚尚可耐攻"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "正气虽虚尚可耐攻"
+    },
+    {
+      "id": 49,
+      "question": "无法提取问题",
+      "options": "\"木为水之子\",\"水为火之所不胜\",\"火为土之母\",\"金为木之所胜\"",
+      "response": "system\nYou are HuatuoGPT-o1, created by The Chinese University of Hong Kong, Shenzhen. You are a helpful assistant.\nuser\n问题：请在提供的选项中选择回答\n问题：“按五行相生相克的规律，以下哪一条是错误的?”\n选项：\"木为水之子\",\"水为火之所不胜\",\"火为土之母\",\"金为木之所胜\"\n仅需直接给出答案,不需要做其他解释\nassistant\n金为木之所胜",
+      "expected": [
+        [
+          "金为木之所胜"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "金为木之所胜"
+    },
+    {
+      "id": 50,
+      "question": "无法提取问题",
+      "options": "\"增加服药次数\",\"停服\",\"减轻药量\",\"减少服药次数\"",
+      "response": "在服用补益药期间偶遇外感，为防“闭门留寇”，最好选择“停服”。",
+      "expected": [
+        [
+          "停服"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "停服"
+    },
+    {
+      "id": 51,
+      "question": "无法提取问题",
+      "options": "\"辨证论治\",\"“节阴阳而调刚柔“的守中思想\",\"“治未病“的预防思想\",\"突出精神心理健康\"",
+      "response": "不属于养生基本原则的是“辨证论治”。",
+      "expected": [
+        [
+          "辨证论治"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "辨证论治"
+    },
+    {
+      "id": 52,
+      "question": "无法提取问题",
+      "options": "\"悲伤肺\",\"怒伤肝\",\"喜伤心\",\"思伤脾\"",
+      "response": "答案是“喜伤心”。",
+      "expected": [
+        [
+          "喜伤心"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "喜伤心"
+    },
+    {
+      "id": 53,
+      "question": "无法提取问题",
+      "options": "\"湿侵肌肉关节\",\"火邪窜至经络\",\"寒邪阻滞经络\",\"气血亏虚\"",
+      "response": "酸痛的常见病因是\"湿侵肌肉关节\"。",
+      "expected": [
+        [
+          "湿侵肌肉关节"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "湿侵肌肉关节"
+    },
+    {
+      "id": 54,
+      "question": "无法提取问题",
+      "options": "\"心血虚证\",\"肝血虚证\",\"心肝血虚证\",\"心脾两虚证\"",
+      "response": "心脾两虚证",
+      "expected": [
+        [
+          "心脾两虚证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "心脾两虚证"
+    },
+    {
+      "id": 55,
+      "question": "无法提取问题",
+      "options": "\"胃阴虚证\",\"脾胃气虚证\",\"脾阴虚证\",\"脾气虚证\"",
+      "response": "\"胃阴虚证\"",
+      "expected": [
+        [
+          "胃阴虚证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "胃阴虚证"
+    },
+    {
+      "id": 56,
+      "question": "无法提取问题",
+      "options": "\"蜜炙品\",\"醋制品\",\"煅制品\",\"盐炙品\"",
+      "response": "盐炙品",
+      "expected": [
+        [
+          "盐炙品"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "盐炙品"
+    },
+    {
+      "id": 57,
+      "question": "无法提取问题",
+      "options": "\"色黄者为痰，色白者为饮\",\"得阳气煎熬而成者为痰，受阴气凝聚而成者为饮。\",\"浓度较大，较粘稠者为痰；浓度较小，较清稀者为饮。\",\"热者为痰，寒者为饮。\"",
+      "response": "选项：\"得阳气煎熬而成者为痰，受阴气凝聚而成者为饮。\"",
+      "expected": [
+        [
+          "浓度较大，较粘稠者为痰；浓度较小，较清稀者为饮。"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 58,
+      "question": "无法提取问题",
+      "options": "\"暑邪\",\"瘀血\",\"痰饮\",\"热邪\"",
+      "response": "痰饮",
+      "expected": [
+        [
+          "痰饮"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "痰饮"
+    },
+    {
+      "id": 59,
+      "question": "无法提取问题",
+      "options": "\"百合固金汤\",\"金匮肾气丸\",\"麻黄汤\",\"桑白皮汤\"",
+      "response": "金匮肾气丸",
+      "expected": [
+        [
+          "金匮肾气丸"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "金匮肾气丸"
+    },
+    {
+      "id": 60,
+      "question": "无法提取问题",
+      "options": "\"实热证\",\"实寒证\",\"虚热证\",\"虚寒证\"",
+      "response": "“益火之源，以消阴翳”的治法适用于“虚寒证”。",
+      "expected": [
+        [
+          "虚寒证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "虚寒证"
+    },
+    {
+      "id": 61,
+      "question": "无法提取问题",
+      "options": "\"营气\",\"元气\",\"宗气\",\"卫气\"",
+      "response": "答案是\"宗气\"。",
+      "expected": [
+        [
+          "宗气"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "宗气"
+    },
+    {
+      "id": 62,
+      "question": "无法提取问题",
+      "options": "\"薄药\",\"无毒药\",\"厚药\",\"针石\"",
+      "response": "根据《素问·五常政大论》中的内容，“能毒者当以厚药”是最符合题意的答案。因此，正确选项是“厚药”。",
+      "expected": [
+        [
+          "厚药"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "厚药"
+    },
+    {
+      "id": 63,
+      "question": "无法提取问题",
+      "options": "\"里实证\",\"真虚假实证\",\"里虚证\",\"真实假虚证\"",
+      "response": "里虚证",
+      "expected": [
+        [
+          "真实假虚证"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 64,
+      "question": "无法提取问题",
+      "options": "\"毛\",\"发\",\"面\",\"唇\"",
+      "response": "脾之华在\"唇\"。",
+      "expected": [
+        [
+          "唇"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "唇"
+    },
+    {
+      "id": 65,
+      "question": "无法提取问题",
+      "options": "\"津\",\"血\",\"精\",\"气\"",
+      "response": "答案是：“精”",
+      "expected": [
+        [
+          "血"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 66,
+      "question": "无法提取问题",
+      "options": "\"通调水道，下输膀胱\",\"脾气散精，上归于肺\",\"浊阴归六腑\",\"精气上输于脾\"",
+      "response": "不属于谷食精气输布运行过程的是\"精气上输于脾\"。",
+      "expected": [
+        [
+          "浊阴归六腑"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 67,
+      "question": "无法提取问题",
+      "options": "\"因时制宜\",\"因地制宜\",\"因人制宜\",\"治标\"",
+      "response": "答案是：“因时制宜”。",
+      "expected": [
+        [
+          "因时制宜"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "因时制宜"
+    },
+    {
+      "id": 68,
+      "question": "无法提取问题",
+      "options": "\"嗳腐吞酸\",\"脘腹胀满\",\"疼痛拒按\",\"舌红少苔，脉细数\"",
+      "response": "“舌红少苔，脉细数”",
+      "expected": [
+        [
+          "舌红少苔，脉细数"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "舌红少苔，脉细数"
+    },
+    {
+      "id": 69,
+      "question": "无法提取问题",
+      "options": "\"洪脉\",\"弦脉\",\"浮脉\",\"缓脉\"",
+      "response": "\"洪脉\"",
+      "expected": [
+        [
+          "弦脉"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 70,
+      "question": "无法提取问题",
+      "options": "\"四神丸\",\"参苓白术散\",\"保和丸\",\"葛根芩连丸\"",
+      "response": "宜选用的中成药是“保和丸”。",
+      "expected": [
+        [
+          "保和丸"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "保和丸"
+    },
+    {
+      "id": 71,
+      "question": "无法提取问题",
+      "options": "\"血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少\",\"恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血\",\"直接作用于中枢神经系统，甚或因呼吸中枢完全麻痹而致死\",\"导致精子产生和成熟发生障碍，抑制女性患者的卵巢功能\"",
+      "response": "苍耳子的主要不良反应是“血小板、白细胞、血红蛋白减少，并可发生急性粒细胞减少”。",
+      "expected": [
+        [
+          "恶心呕吐，腹痛腹泻，重者可见黄疸、肝肿大、消化道出血"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 72,
+      "question": "无法提取问题",
+      "options": "\"肾气盛\",\"肺气盛\",\"肾气虚\",\"肺气虚\"",
+      "response": "梦哭是由于“肾气虚”。",
+      "expected": [
+        [
+          "肺气盛"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 73,
+      "question": "无法提取问题",
+      "options": "\"盐水\",\"焦三仙煎汤\",\"芦根煎汤\",\"黄酒\"",
+      "response": "答案是“芦根煎汤”。",
+      "expected": [
+        [
+          "芦根煎汤"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "芦根煎汤"
+    },
+    {
+      "id": 74,
+      "question": "无法提取问题",
+      "options": "\"化生精气\",\"实而不满\",\"储藏精气\",\"藏而不泻\"",
+      "response": "“实而不满”",
+      "expected": [
+        [
+          "实而不满"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "实而不满"
+    },
+    {
+      "id": 75,
+      "question": "无法提取问题",
+      "options": "\"传化物而不藏\",\"满而不能实\",\"泻而不藏\",\"藏精气而不泻也\"",
+      "response": "答案是：“传化物而不藏”。",
+      "expected": [
+        [
+          "传化物而不藏"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "传化物而不藏"
+    },
+    {
+      "id": 76,
+      "question": "无法提取问题",
+      "options": "\"消乳丸\",\"保和丸\",\"消积理脾汤\",\"枳术丸\"",
+      "response": "保和丸",
+      "expected": [
+        [
+          "消乳丸"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 77,
+      "question": "无法提取问题",
+      "options": "\"其气象天\",\"泻而不藏\",\"天气之所生\",\"象于地\"",
+      "response": "\"象于地\"",
+      "expected": [
+        [
+          "象于地"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "象于地"
+    },
+    {
+      "id": 78,
+      "question": "无法提取问题",
+      "options": "\"乌贼骨\",\"乳香\",\"孩儿茶\",\"炉甘石\"",
+      "response": "system\nYou are HuatuoGPT-o1, created by The Chinese University of Hong Kong, Shenzhen. You are a helpful assistant.\nuser\n问题：请在提供的选项中选择回答\n问题：“下列无收涩敛疮功效的药物是”\n选项：\"乌贼骨\",\"乳香\",\"孩儿茶\",\"炉甘石\"\n仅需直接给出答案,不需要做其他解释\nassistant\n乳香",
+      "expected": [
+        [
+          "乳香"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "乳香"
+    },
+    {
+      "id": 79,
+      "question": "无法提取问题",
+      "options": "\"寒邪\",\"燥邪\",\"风邪\",\"暑邪\"",
+      "response": "答案是“燥邪”。",
+      "expected": [
+        [
+          "燥邪"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "燥邪"
+    },
+    {
+      "id": 80,
+      "question": "无法提取问题",
+      "options": "\"肺痨，阴虚火旺\",\"肺痈，成痈期\",\"咳嗽，肝火犯肺\",\"咯血，肝火犯肺\"",
+      "response": "咯血，肝火犯肺",
+      "expected": [
+        [
+          "咯血，肝火犯肺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "咯血，肝火犯肺"
+    },
+    {
+      "id": 81,
+      "question": "无法提取问题",
+      "options": "\"四八\",\"四七\",\"五八\",\"五七\"",
+      "response": "答案是：“五七”。",
+      "expected": [
+        [
+          "五八"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 82,
+      "question": "无法提取问题",
+      "options": "\"六腑\",\"奇恒之腑\",\"五脏\",\"脏腑\"",
+      "response": "答案是：“奇恒之腑”。",
+      "expected": [
+        [
+          "五脏"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 83,
+      "question": "无法提取问题",
+      "options": "\"气\",\"血\",\"液\",\"津\"",
+      "response": "答案是“液”。",
+      "expected": [
+        [
+          "液"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "液"
+    },
+    {
+      "id": 84,
+      "question": "无法提取问题",
+      "options": "\"宜用温性药，忌用苦寒药\",\"宜用凉润药，忌用辛香燥热药\",\"宜用凉润药，忌用温热药\",\"宜用寒性药，忌用温热药\"",
+      "response": "宜用凉润药，忌用辛香燥热药",
+      "expected": [
+        [
+          "宜用温性药，忌用苦寒药"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 85,
+      "question": "无法提取问题",
+      "options": "\"养身、养病、养心\",\"养身、养性、养心\",\"养身、养性、养神\",\"养病、养性、养心\"",
+      "response": "答案是：“养身、养性、养心”。",
+      "expected": [
+        [
+          "养身、养性、养心"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "养身、养性、养心"
+    },
+    {
+      "id": 86,
+      "question": "无法提取问题",
+      "options": "\"骨\",\"筋\",\"面\",\"血\"",
+      "response": "面",
+      "expected": [
+        [
+          "面"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "面"
+    },
+    {
+      "id": 87,
+      "question": "无法提取问题",
+      "options": "\"黑豆\",\"花椒\",\"大蒜\",\"冰片\"",
+      "response": "花椒",
+      "expected": [
+        [
+          "大蒜"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 88,
+      "question": "无法提取问题",
+      "options": "\"夜卧晚起\",\"早卧晚起\",\"夜卧早起\",\"早卧早起\"",
+      "response": "答案是：“夜卧早起”。",
+      "expected": [
+        [
+          "夜卧早起"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "夜卧早起"
+    },
+    {
+      "id": 89,
+      "question": "无法提取问题",
+      "options": "\"泄热之法\",\"泻下之法\",\"涌吐之法\",\"发汗之法\"",
+      "response": "根据《素问·热论》中的内容，“其满三日者当用”指的是“泄热之法”。因此，正确答案是“泄热之法”。",
+      "expected": [
+        [
+          "泄热之法"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "泄热之法"
+    },
+    {
+      "id": 90,
+      "question": "无法提取问题",
+      "options": "\"攻之\",\"散之\",\"削之\",\"除之\"",
+      "response": "答案是：“攻之”。",
+      "expected": [
+        [
+          "攻之"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "攻之"
+    },
+    {
+      "id": 91,
+      "question": "无法提取问题",
+      "options": "\"肝胆湿热证\",\"胃火亢盛证\",\"心火亢盛证\",\"肝火上炎证\"",
+      "response": "心火亢盛证",
+      "expected": [
+        [
+          "心火亢盛证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "心火亢盛证"
+    },
+    {
+      "id": 92,
+      "question": "无法提取问题",
+      "options": "\"热气熏胸中\",\"上焦不通利\",\"腠理闭塞\",\"皮肤致密\"",
+      "response": "“不属于‘阳盛则外热’机理的是”：腠理闭塞。",
+      "expected": [
+        [
+          "热气熏胸中"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 93,
+      "question": "无法提取问题",
+      "options": "\"调整阴阳\",\"治病求本\",\"扶正祛邪\",\"因地制宜\"",
+      "response": "中医治疗疾病的基本原则是\"调整阴阳\"。",
+      "expected": [
+        [
+          "治病求本"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 94,
+      "question": "无法提取问题",
+      "options": "\"小肠实热证\",\"湿热下注证\",\"膀胱湿热证\",\"热结膀胱证\"",
+      "response": "根据提供的症状和分析，这位26岁女性的情况最符合“膀胱湿热证”。因此，答案是：膀胱湿热证。",
+      "expected": [
+        [
+          "膀胱湿热证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "膀胱湿热证"
+    },
+    {
+      "id": 95,
+      "question": "无法提取问题",
+      "options": "\"郁金\",\"栀子\",\"大黄\",\"虎杖\"",
+      "response": "答案是：郁金。",
+      "expected": [
+        [
+          "郁金"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "郁金"
+    },
+    {
+      "id": 96,
+      "question": "无法提取问题",
+      "options": "\"肺\",\"肝\",\"心\",\"肾\"",
+      "response": "肾",
+      "expected": [
+        [
+          "肾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾"
+    },
+    {
+      "id": 97,
+      "question": "无法提取问题",
+      "options": "\"足少阳胆经\",\"手太阳小肠经\",\"足阳明胃经\",\"手少阳三焦经\"",
+      "response": "答案是：“手太阳小肠经”。",
+      "expected": [
+        [
+          "手太阳小肠经"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "手太阳小肠经"
+    },
+    {
+      "id": 98,
+      "question": "无法提取问题",
+      "options": "\"阴阳对立制约\",\"阴阳相互消长\",\"阴阳相互转化\",\"阴阳互根互用\"",
+      "response": "答案是：“阴阳对立制约”。",
+      "expected": [
+        [
+          "阴阳对立制约"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "阴阳对立制约"
+    },
+    {
+      "id": 99,
+      "question": "无法提取问题",
+      "options": "\"风邪袭表\",\"寒邪内侵\",\"阳气虚衰\",\"湿邪外袭\"",
+      "response": "答案是：阳气虚衰。",
+      "expected": [
+        [
+          "阳气虚衰"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "阳气虚衰"
+    },
+    {
+      "id": 100,
+      "question": "无法提取问题",
+      "options": "\"脾有贮藏血液的作用\",\"脾有调节经脉中血流量的作用\",\"脾有统摄血液在经脉中运行的作用\",\"脾有推动血液在经脉中流行的作用\"",
+      "response": "脾统血的含义是“脾有统摄血液在经脉中运行的作用”。",
+      "expected": [
+        [
+          "脾有统摄血液在经脉中运行的作用"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脾有统摄血液在经脉中运行的作用"
+    },
+    {
+      "id": 101,
+      "question": "无法提取问题",
+      "options": "\"肝的疏泄作用\",\"膀胱的气化作用\",\"肾的气化作用\",\"肺的宣发肃降作用\"",
+      "response": "膀胱贮存和排泄小便，主要依赖于“肾的气化作用”。",
+      "expected": [
+        [
+          "肾的气化作用"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾的气化作用"
+    },
+    {
+      "id": 102,
+      "question": "无法提取问题",
+      "options": "\"调和诸药\",\"解生附子之毒\",\"缓干姜之峻\",\"缓生附子之峻\"",
+      "response": "\"缓干姜之峻\"",
+      "expected": [
+        [
+          "调和诸药"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 103,
+      "question": "无法提取问题",
+      "options": "\"髓\",\"耳\",\"头\",\"目\"",
+      "response": "头",
+      "expected": [
+        [
+          "头"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "头"
+    },
+    {
+      "id": 104,
+      "question": "无法提取问题",
+      "options": "\"上午\",\"前半夜\",\"后半夜\",\"下午\"",
+      "response": "后半夜",
+      "expected": [
+        [
+          "后半夜"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "后半夜"
+    },
+    {
+      "id": 105,
+      "question": "无法提取问题",
+      "options": "\"血虚\",\"寒症\",\"气虚\",\"惊风\"",
+      "response": "寒症",
+      "expected": [
+        [
+          "寒症"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "寒症"
+    },
+    {
+      "id": 106,
+      "question": "无法提取问题",
+      "options": "\"肝肾阴虚\",\"肾阴虚\",\"肝阴虚\",\"阴虚动风\"",
+      "response": "阴虚动风",
+      "expected": [
+        [
+          "阴虚动风"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "阴虚动风"
+    },
+    {
+      "id": 107,
+      "question": "无法提取问题",
+      "options": "\"邪犯肺卫\",\"热入心营\",\"邪热壅肺\",\"热郁阳明\"",
+      "response": "邪热壅肺",
+      "expected": [
+        [
+          "邪热壅肺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "邪热壅肺"
+    },
+    {
+      "id": 108,
+      "question": "无法提取问题",
+      "options": "\"阳热、上炎\",\"长养、化育\",\"清静、收杀\",\"生发、柔和\"",
+      "response": "答案是：“长养、化育”。",
+      "expected": [
+        [
+          "长养、化育"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "长养、化育"
+    },
+    {
+      "id": 109,
+      "question": "无法提取问题",
+      "options": "\"脾虚湿盛\",\"脾胃虚弱\",\"食滞胃肠\",\"脾肾阳虚\"",
+      "response": "导致泄泻的关键病机是“脾虚湿盛”。",
+      "expected": [
+        [
+          "脾虚湿盛"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脾虚湿盛"
+    },
+    {
+      "id": 110,
+      "question": "无法提取问题",
+      "options": "\"虚寒证\",\"实热证\",\"虚热证\",\"实寒证\"",
+      "response": "实寒证",
+      "expected": [
+        [
+          "实寒证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "实寒证"
+    },
+    {
+      "id": 111,
+      "question": "无法提取问题",
+      "options": "\"邪热亢盛\",\"肾精亏损\",\"津液亏损\",\"外感风邪\"",
+      "response": "\"囟填\"的原因是\"邪热亢盛\"。",
+      "expected": [
+        [
+          "肾精亏损"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 112,
+      "question": "无法提取问题",
+      "options": "\"三棱、莪术、水蛭\",\"当归、阿胶、丹参\",\"巴豆、牵牛子、商陆\",\"斑蝥、麝香、虻虫\"",
+      "response": "选项中的“当归、阿胶、丹参”是可以服用的药组。",
+      "expected": [
+        [
+          "当归、阿胶、丹参"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "当归、阿胶、丹参"
+    },
+    {
+      "id": 113,
+      "question": "无法提取问题",
+      "options": "\"凉而行之\",\"冷而行之\",\"温而行之\",\"热而行之\"",
+      "response": "答案是：\"凉而行之\"。",
+      "expected": [
+        [
+          "冷而行之"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 114,
+      "question": "无法提取问题",
+      "options": "\"对疾病症状与体征的分析过程\",\"对疾病症状与体征的调查过程\",\"疾病的症状与体征\",\"疾病发展过程中某一阶段的病理概括\"",
+      "response": "答案是：“疾病发展过程中某一阶段的病理概括”。",
+      "expected": [
+        [
+          "疾病发展过程中某一阶段的病理概括"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "疾病发展过程中某一阶段的病理概括"
+    },
+    {
+      "id": 115,
+      "question": "无法提取问题",
+      "options": "\"动而多怒\",\"精神亢奋\",\"狂燥不安\",\"表情淡漠\"",
+      "response": "“表情淡漠”",
+      "expected": [
+        [
+          "表情淡漠"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "表情淡漠"
+    },
+    {
+      "id": 116,
+      "question": "无法提取问题",
+      "options": "\"了解病位深浅\",\"判断正气盛衰\",\"辨别病位深浅\",\"区别病邪性质\"",
+      "response": "\"了解病位深浅\"",
+      "expected": [
+        [
+          "了解病位深浅"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "了解病位深浅"
+    },
+    {
+      "id": 117,
+      "question": "无法提取问题",
+      "options": "\"喜则气缓\",\"恐则气下\",\"惊则气乱\",\"悲则气消\"",
+      "response": "答案是：“恐则气下”。",
+      "expected": [
+        [
+          "恐则气下"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "恐则气下"
+    },
+    {
+      "id": 118,
+      "question": "无法提取问题",
+      "options": "\"扶正\",\"催吐\",\"发汗\",\"调和\"",
+      "response": "属于中医治则的是\"扶正\"。",
+      "expected": [
+        [
+          "扶正"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "扶正"
+    },
+    {
+      "id": 119,
+      "question": "无法提取问题",
+      "options": "\"四物汤\",\"香薷饮\",\"左归丸\",\"白虎汤\"",
+      "response": "治疗阴暑，宜选用的方剂是\"香薷饮\"。",
+      "expected": [
+        [
+          "香薷饮"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "香薷饮"
+    },
+    {
+      "id": 120,
+      "question": "无法提取问题",
+      "options": "\"肝失疏泄\",\"心神不足\",\"肝升太过\",\"髓海空虚\"",
+      "response": "与情志抑郁最为关联的是\"肝失疏泄\"。",
+      "expected": [
+        [
+          "肝失疏泄"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝失疏泄"
+    },
+    {
+      "id": 121,
+      "question": "无法提取问题",
+      "options": "\"加强锻炼\",\"外避病邪\",\"调摄精神\",\"起居有常\"",
+      "response": "答案是“外避病邪”。",
+      "expected": [
+        [
+          "外避病邪"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "外避病邪"
+    },
+    {
+      "id": 122,
+      "question": "无法提取问题",
+      "options": "\"较下层\",\"中上层\",\"中下层\",\"高层\"",
+      "response": "答案是：\"较下层\"。",
+      "expected": [
+        [
+          "较下层"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "较下层"
+    },
+    {
+      "id": 123,
+      "question": "无法提取问题",
+      "options": "\"六淫\",\"饮食\",\"七情\",\"瘀血\"",
+      "response": "答案是：瘀血。",
+      "expected": [
+        [
+          "瘀血"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "瘀血"
+    },
+    {
+      "id": 124,
+      "question": "无法提取问题",
+      "options": "\"香薷散\",\"参苓白术散\",\"六一散\",\"藿香正气散\"",
+      "response": "六一散",
+      "expected": [
+        [
+          "六一散"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "六一散"
+    },
+    {
+      "id": 125,
+      "question": "无法提取问题",
+      "options": "\"侧头部\",\"头后部\",\"头顶部\",\"前额部\"",
+      "response": "\"侧头部\"",
+      "expected": [
+        [
+          "侧头部"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "侧头部"
+    },
+    {
+      "id": 126,
+      "question": "无法提取问题",
+      "options": "\"脾虚气陷证\",\"气不摄津证\",\"肾气不固证\",\"肾阳虚证\"",
+      "response": "肾阳虚证",
+      "expected": [
+        [
+          "肾阳虚证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾阳虚证"
+    },
+    {
+      "id": 127,
+      "question": "无法提取问题",
+      "options": "\"突然仆地\",\"动作中断\",\"头向前倾\",\"持物落地\"",
+      "response": "\"突然仆地\"",
+      "expected": [
+        [
+          "突然仆地"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "突然仆地"
+    },
+    {
+      "id": 128,
+      "question": "无法提取问题",
+      "options": "\"善行\",\"开泄\",\"干涩\",\"凝滞\"",
+      "response": "\"善行\"",
+      "expected": [
+        [
+          "善行"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "善行"
+    },
+    {
+      "id": 129,
+      "question": "无法提取问题",
+      "options": "\"土侮木\",\"子病犯母\",\"木乘土\",\"母病及子\"",
+      "response": "答案是“木乘土”。",
+      "expected": [
+        [
+          "木乘土"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "木乘土"
+    },
+    {
+      "id": 130,
+      "question": "无法提取问题",
+      "options": "\"肝胆湿热证\",\"血热证\",\"湿热蕴脾证\",\"血热生风证\"",
+      "response": "\"肝胆湿热证\"",
+      "expected": [
+        [
+          "肝胆湿热证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝胆湿热证"
+    },
+    {
+      "id": 131,
+      "question": "无法提取问题",
+      "options": "\"肝气郁结证\",\"肝胃不和证\",\"肝郁脾虚证\",\"肝气横逆证\"",
+      "response": "根据患者的症状和体征，最可能的临床诊断是“肝胃不和证”。",
+      "expected": [
+        [
+          "肝胃不和证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝胃不和证"
+    },
+    {
+      "id": 132,
+      "question": "无法提取问题",
+      "options": "\"真寒假热\",\"邪热亢盛\",\"虚阳上越\",\"阴虚火旺\"",
+      "response": "“满面通红的病机是”：邪热亢盛。",
+      "expected": [
+        [
+          "邪热亢盛"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "邪热亢盛"
+    },
+    {
+      "id": 133,
+      "question": "无法提取问题",
+      "options": "\"筋络阻塞气滞血瘀\",\"血瘀痰阻\",\"毒邪滞留\",\"痰湿内蕴\"",
+      "response": "\"筋络阻塞气滞血瘀\"",
+      "expected": [
+        [
+          "筋络阻塞气滞血瘀"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "筋络阻塞气滞血瘀"
+    },
+    {
+      "id": 134,
+      "question": "无法提取问题",
+      "options": "\"痰湿犯肺\",\"风热犯肺\",\"风寒袭肺\",\"痰热郁肺\"",
+      "response": "风热犯肺",
+      "expected": [
+        [
+          "风热犯肺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "风热犯肺"
+    },
+    {
+      "id": 135,
+      "question": "无法提取问题",
+      "options": "\"先天之精\",\"包括先天之精和后天之精\",\"生殖之精\",\"后天之精\"",
+      "response": "答案是：“包括先天之精和后天之精”。",
+      "expected": [
+        [
+          "包括先天之精和后天之精"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "包括先天之精和后天之精"
+    },
+    {
+      "id": 136,
+      "question": "无法提取问题",
+      "options": "\"肾不纳气证\",\"心肺气虚证\",\"肺气虚证\",\"肺肾气虚证\"",
+      "response": "\"肺肾气虚证\"",
+      "expected": [
+        [
+          "肺气虚证"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 137,
+      "question": "无法提取问题",
+      "options": "\"肝胃不和\",\"寒凝气滞\",\"肝胃郁热\",\"饮食停滞\"",
+      "response": "\"肝胃不和\"",
+      "expected": [
+        [
+          "肝胃郁热"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 138,
+      "question": "无法提取问题",
+      "options": "\"空痛\",\"胀痛\",\"刺痛\",\"重痛\"",
+      "response": "刺痛",
+      "expected": [
+        [
+          "刺痛"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "刺痛"
+    },
+    {
+      "id": 139,
+      "question": "无法提取问题",
+      "options": "\"水谷精微\",\"命门之火\",\"冲任气血\",\"肾精\"",
+      "response": "答案是“肾精”。",
+      "expected": [
+        [
+          "肾精"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾精"
+    },
+    {
+      "id": 140,
+      "question": "无法提取问题",
+      "options": "\"心\",\"肾\",\"肺\",\"肝\"",
+      "response": "肺",
+      "expected": [
+        [
+          "肺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肺"
+    },
+    {
+      "id": 141,
+      "question": "无法提取问题",
+      "options": "\"十二皮部的络脉\",\"络脉中最细小的分支\",\"十五别络\",\"行于浅表部位的络脉\"",
+      "response": "孙络是指\"络脉中最细小的分支\"。",
+      "expected": [
+        [
+          "络脉中最细小的分支"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "络脉中最细小的分支"
+    },
+    {
+      "id": 142,
+      "question": "无法提取问题",
+      "options": "\"脾\",\"心\",\"肾\",\"肝\"",
+      "response": "在阴阳失调病机中，阳偏衰以“肾”为根本。",
+      "expected": [
+        [
+          "肾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾"
+    },
+    {
+      "id": 143,
+      "question": "无法提取问题",
+      "options": "\"胁肋胀痛\",\"易怒善哭\",\"潮热盗汗\",\"精神抑郁\"",
+      "response": "潮热盗汗",
+      "expected": [
+        [
+          "潮热盗汗"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "潮热盗汗"
+    },
+    {
+      "id": 144,
+      "question": "无法提取问题",
+      "options": "\"细辛\",\"鱼胆\",\"雄黄\",\"朱砂\"",
+      "response": "答案是：雄黄。",
+      "expected": [
+        [
+          "雄黄"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "雄黄"
+    },
+    {
+      "id": 145,
+      "question": "无法提取问题",
+      "options": "\"肝\",\"肺\",\"肾\",\"脾\"",
+      "response": "\"肝\"",
+      "expected": [
+        [
+          "肝"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝"
+    },
+    {
+      "id": 146,
+      "question": "无法提取问题",
+      "options": "\"督、冲、带\",\"任、督、带\",\"冲、任、带\",\"冲、任、督\"",
+      "response": "“一源三歧”的三条经脉是“冲、任、督”。",
+      "expected": [
+        [
+          "冲、任、督"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "冲、任、督"
+    },
+    {
+      "id": 147,
+      "question": "无法提取问题",
+      "options": "\"气逆\",\"气脱\",\"气滞\",\"气不降\"",
+      "response": "气的上升运动太过，称为“气逆”。",
+      "expected": [
+        [
+          "气逆"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "气逆"
+    },
+    {
+      "id": 148,
+      "question": "无法提取问题",
+      "options": "\"病久体虚肿甚，日久不消\",\"颜面浮肿，兼有表症\",\"病初体实肿甚，正气已虚\",\"病初体实肿甚，正气尚旺\"",
+      "response": "病初体实肿甚，正气尚旺。",
+      "expected": [
+        [
+          "病初体实肿甚，正气尚旺"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "病初体实肿甚，正气尚旺"
+    },
+    {
+      "id": 149,
+      "question": "无法提取问题",
+      "options": "\"足少阳经\",\"足厥阴经\",\"手厥阴经\",\"手少阴经\"",
+      "response": "根据十二经脉流注次序，手少阳经应流注至\"足少阳经\"。",
+      "expected": [
+        [
+          "足少阳经"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "足少阳经"
+    },
+    {
+      "id": 150,
+      "question": "无法提取问题",
+      "options": "\"清热宣肺，化痰平喘\",\"温肺散寒，化痰平喘\",\"开郁降气平喘\",\"补肾纳气平喘\"",
+      "response": "答案是：“清热宣肺，化痰平喘”。",
+      "expected": [
+        [
+          "清热宣肺，化痰平喘"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "清热宣肺，化痰平喘"
+    },
+    {
+      "id": 151,
+      "question": "无法提取问题",
+      "options": "\"阿卡波糖\",\"地高辛\",\"复方维生素\",\"阿司匹林\"",
+      "response": "地高辛",
+      "expected": [
+        [
+          "地高辛"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "地高辛"
+    },
+    {
+      "id": 152,
+      "question": "无法提取问题",
+      "options": "\"喜燥恶湿\",\"不耐寒热\",\"喜润恶燥\",\"体阴用阳\"",
+      "response": "\"不耐寒热\"",
+      "expected": [
+        [
+          "不耐寒热"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "不耐寒热"
+    },
+    {
+      "id": 153,
+      "question": "无法提取问题",
+      "options": "\"神疲纳呆，四肢倦怠\",\"空腹痛甚，得食则缓\",\"胃痛隐隐，绵绵不休\",\"口干思饮，大便秘结\"",
+      "response": "口干思饮，大便秘结",
+      "expected": [
+        [
+          "口干思饮，大便秘结"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "口干思饮，大便秘结"
+    },
+    {
+      "id": 154,
+      "question": "无法提取问题",
+      "options": "\"筋\",\"脉\",\"髓\",\"骨\"",
+      "response": "筋",
+      "expected": [
+        [
+          "筋"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "筋"
+    },
+    {
+      "id": 155,
+      "question": "无法提取问题",
+      "options": "\"水地说\",\"元气说\",\"五方说\",\"五材说\"",
+      "response": "答案是：“元气说”。",
+      "expected": [
+        [
+          "水地说"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 156,
+      "question": "无法提取问题",
+      "options": "\"心阳虚证\",\"血虚证\",\"气虚证\",\"心气虚证\"",
+      "response": "心气虚证",
+      "expected": [
+        [
+          "心气虚证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "心气虚证"
+    },
+    {
+      "id": 157,
+      "question": "无法提取问题",
+      "options": "\"肺\",\"肾\",\"膀胱\",\"脾\"",
+      "response": "答案是：“肾”。",
+      "expected": [
+        [
+          "肾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肾"
+    },
+    {
+      "id": 158,
+      "question": "无法提取问题",
+      "options": "\"2.5～3h\",\"1～2h\",\"0.5～1h\",\"1.5～2.5h\"",
+      "response": "答案是“2.5～3h”。",
+      "expected": [
+        [
+          "1～2h"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 159,
+      "question": "无法提取问题",
+      "options": "\"皮肤\",\"孔窍\",\"肌肉\",\"关节\"",
+      "response": "“皮肤”",
+      "expected": [
+        [
+          "关节"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 160,
+      "question": "无法提取问题",
+      "options": "\"湿性趋下\",\"湿性重浊\",\"湿性粘滞\",\"湿为阴邪\"",
+      "response": "湿邪致病往往缠绵难愈，是由于“湿性粘滞”。",
+      "expected": [
+        [
+          "湿性粘滞"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "湿性粘滞"
+    },
+    {
+      "id": 161,
+      "question": "无法提取问题",
+      "options": "\"肺与肾\",\"肺与心\",\"肺与肝\",\"脾与肺\"",
+      "response": "答案是：“肺与肾”。",
+      "expected": [
+        [
+          "肺与肾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肺与肾"
+    },
+    {
+      "id": 162,
+      "question": "无法提取问题",
+      "options": "\"火邪\",\"暑邪\",\"燥邪\",\"风邪\"",
+      "response": "\"火邪\"",
+      "expected": [
+        [
+          "火邪"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "火邪"
+    },
+    {
+      "id": 163,
+      "question": "无法提取问题",
+      "options": "\"运行水液\",\"受纳腐熟\",\"排泄糟粕\",\"受盛化物\"",
+      "response": "小肠的功能是“受盛化物”。",
+      "expected": [
+        [
+          "受盛化物"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "受盛化物"
+    },
+    {
+      "id": 164,
+      "question": "无法提取问题",
+      "options": "\"足太阴脾经\",\"足少阴肾经\",\"手少阴心经\",\"手太阴肺经\"",
+      "response": "足太阴脾经",
+      "expected": [
+        [
+          "足太阴脾经"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "足太阴脾经"
+    },
+    {
+      "id": 165,
+      "question": "无法提取问题",
+      "options": "\"手少阳三焦经病证\",\"足厥阴肝经病证\",\"手厥阴心包经病证\",\"足少阳胆经病证\"",
+      "response": "足少阳胆经病证",
+      "expected": [
+        [
+          "足少阳胆经病证"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "足少阳胆经病证"
+    },
+    {
+      "id": 166,
+      "question": "无法提取问题",
+      "options": "\"西红花\",\"雷丸\",\"阿胶\",\"砂仁\"",
+      "response": "\"宜后下的饮片是\" 砂仁。",
+      "expected": [
+        [
+          "砂仁"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "砂仁"
+    },
+    {
+      "id": 167,
+      "question": "无法提取问题",
+      "options": "\"尿\",\"粪\",\"汗\",\"呕吐物\"",
+      "response": "呕吐物",
+      "expected": [
+        [
+          "呕吐物"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "呕吐物"
+    },
+    {
+      "id": 168,
+      "question": "无法提取问题",
+      "options": "\"胆\",\"脉\",\"髓\",\"骨\"",
+      "response": "\"胆\"",
+      "expected": [
+        [
+          "胆"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "胆"
+    },
+    {
+      "id": 169,
+      "question": "无法提取问题",
+      "options": "\"肺\",\"心\",\"脾\",\"肝\"",
+      "response": "脾。",
+      "expected": [
+        [
+          "脾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脾"
+    },
+    {
+      "id": 170,
+      "question": "无法提取问题",
+      "options": "\"泻而不藏\",\"地气之所生\",\"藏而不泻\",\"藏于阴而象于地\"",
+      "response": "答案是：\"泻而不藏\"。",
+      "expected": [
+        [
+          "泻而不藏"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "泻而不藏"
+    },
+    {
+      "id": 171,
+      "question": "无法提取问题",
+      "options": "\"陈皮、枳壳\",\"苍术、厚朴\",\"木香、砂仁\",\"柴胡、青皮\"",
+      "response": "答案是：柴胡、青皮。",
+      "expected": [
+        [
+          "柴胡、青皮"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "柴胡、青皮"
+    },
+    {
+      "id": 172,
+      "question": "无法提取问题",
+      "options": "\"骨痿\",\"肉痿\",\"筋痿\",\"脉痿\"",
+      "response": "\"枢折挈\"见于《素问·痿论》中的\"脉痿\"。",
+      "expected": [
+        [
+          "脉痿"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "脉痿"
+    },
+    {
+      "id": 173,
+      "question": "无法提取问题",
+      "options": "\"桂附地黄丸与麻仁滋脾\",\"清宁丸\",\"槟榔四消丸\",\"麻仁润肠丸\"",
+      "response": "阳虚寒凝所致的便秘，宜选用的中成药是“桂附地黄丸与麻仁滋脾”。",
+      "expected": [
+        [
+          "桂附地黄丸与麻仁滋脾"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "桂附地黄丸与麻仁滋脾"
+    },
+    {
+      "id": 174,
+      "question": "无法提取问题",
+      "options": "\"肝郁化火\",\"饮食停滞\",\"胃阴不足\",\"肝气犯胃\"",
+      "response": "\"肝气犯胃\"",
+      "expected": [
+        [
+          "肝气犯胃"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肝气犯胃"
+    },
+    {
+      "id": 175,
+      "question": "无法提取问题",
+      "options": "\"任脉\",\"带脉\",\"冲脉\",\"督脉\"",
+      "response": "答案是：冲脉。",
+      "expected": [
+        [
+          "冲脉"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "冲脉"
+    },
+    {
+      "id": 176,
+      "question": "无法提取问题",
+      "options": "\"睡前服\",\"饭后服\",\"早餐后服\",\"空腹服\"",
+      "response": "空腹服",
+      "expected": [
+        [
+          "空腹服"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "空腹服"
+    },
+    {
+      "id": 177,
+      "question": "无法提取问题",
+      "options": "\"天王补心丹\",\"六味地黄丸\",\"龟龄集\",\"人参归脾丸\"",
+      "response": "\"人参归脾丸\"",
+      "expected": [
+        [
+          "人参归脾丸"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "人参归脾丸"
+    },
+    {
+      "id": 178,
+      "question": "无法提取问题",
+      "options": "\"郁金\",\"五灵脂\",\"玄胡\",\"三棱\"",
+      "response": "\"五灵脂\"",
+      "expected": [
+        [
+          "五灵脂"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "五灵脂"
+    },
+    {
+      "id": 179,
+      "question": "无法提取问题",
+      "options": "\"腑先受之\",\"脏先受之\",\"上先受之\",\"下先受之\"",
+      "response": "答案是：“上先受之”。",
+      "expected": [
+        [
+          "上先受之"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "上先受之"
+    },
+    {
+      "id": 180,
+      "question": "无法提取问题",
+      "options": "\"水\",\"湿\",\"饮\",\"痰\"",
+      "response": "痰",
+      "expected": [
+        [
+          "水"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 181,
+      "question": "无法提取问题",
+      "options": "\"生姜\",\"黄芩\",\"麦冬\",\"黄柏\"",
+      "response": "生姜",
+      "expected": [
+        [
+          "生姜"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "生姜"
+    },
+    {
+      "id": 182,
+      "question": "无法提取问题",
+      "options": "\"疏肝理气，和胃止痛\",\"导滞和胃\",\"疏肝泄热，和胃止痛\",\"温中散寒，和胃止痛\"",
+      "response": "\"疏肝理气，和胃止痛\"",
+      "expected": [
+        [
+          "温中散寒，和胃止痛"
+        ]
+      ],
+      "correct": false,
+      "matched_keyword": null
+    },
+    {
+      "id": 183,
+      "question": "无法提取问题",
+      "options": "\"反治\",\"标本兼顾\",\"治标\",\"正治\"",
+      "response": "答案是：“正治”。",
+      "expected": [
+        [
+          "正治"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "正治"
+    },
+    {
+      "id": 184,
+      "question": "无法提取问题",
+      "options": "\"肺主气，司呼吸\",\"肺主升清\",\"肺主通调水道\",\"肺主治节\"",
+      "response": "肺主升清。",
+      "expected": [
+        [
+          "肺主升清"
+        ]
+      ],
+      "correct": true,
+      "matched_keyword": "肺主升清"
+    }
+  ]
+}

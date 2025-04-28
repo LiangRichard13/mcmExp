@@ -1,0 +1,12 @@
+Eval output 1:
+<s><|im_start|>system
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<|im_end|>
+<|im_start|>user
+请在提供的选项中选择回答
+问题："血之府"是指"
+选项："肝","脉","冲脉","心"<|im_end|>
+<|im_start|>assistant
+"血之府"是指"肝"。根据中医经典理论，肝主藏血，具有贮藏和调节血液的功能，故有"血府"之称。肝藏血功能正常，则血行畅达；若肝失疏泄，可致血瘀、血虚等病理变化。其他选项中，"脉"为血行之通道，"冲脉"为"血海"，"心"主血脉但非血之府藏。因此最符合"血之府"定义的是肝。<|im_end|>
+
+

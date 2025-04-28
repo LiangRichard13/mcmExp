@@ -1,0 +1,12 @@
+Eval output 1:
+<s><|im_start|>system
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<|im_end|>
+<|im_start|>user
+请在提供的选项中选择回答
+问题："血之府"是指"
+选项："肝","脉","冲脉","心"<|im_end|>
+<|im_start|>assistant
+"血之府"是指"脉"。在中医理论中，脉是血液运行的通道，具有约束血液、防止其外溢的功能，因此被称为"血之府"。其他选项中，肝藏血但非血府，冲脉为"血海"，心主血但非血府。<|im_end|>
+
+

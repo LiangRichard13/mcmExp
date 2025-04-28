@@ -1,0 +1,12 @@
+Eval output 1:
+<s><|im_start|>system
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<|im_end|>
+<|im_start|>user
+请在提供的选项中选择回答
+问题："血之府"是指"
+选项："肝","脉","冲脉","心"<|im_end|>
+<|im_start|>assistant
+"血之府"是指"脉"。在中医理论中，脉是气血运行的通道，具有统摄和调节气血的功能。《素问·脉要精微论》指出："脉者，血之府也"，明确指出了脉与血的密切关系。肝主藏血，心主血脉，冲脉为"十二经之海"，但它们并不直接被称为"血之府"。因此，正确答案是"脉"。<|im_end|>
+
+

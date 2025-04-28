@@ -1,0 +1,12 @@
+Eval output 1:
+<s><|im_start|>system
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<|im_end|>
+<|im_start|>user
+请在提供的选项中选择回答
+问题："血之府"是指"
+选项："肝","脉","冲脉","心"<|im_end|>
+<|im_start|>assistant
+"血之府"是指"肝"。在中医理论中，肝藏血，具有贮藏和调节血液的功能，故有"血海"之称。肝血充足则能濡养全身，肝血不足则可出现头晕目眩、肢体麻木等症状。因此，肝是调节人体气血平衡的重要脏腑，故称其为"血之府"。其他选项如脉、冲脉、心虽与血相关，但并非"血之府"的专称。<|im_end|>
+
+
