@@ -87,22 +87,21 @@ Compare the performance of **InternLM2-5-7B-SFT** and **InternLM2-5-7B-Chat** on
 
 ### Base model:internlm2_5-7b-chat 
 
-
-|           Model Name           |  Accuracy  | Improvement Over The Base Model |
-| :----------------------------: | :--------: | :-----------------------------: |
-| internlm2_5-7b-chat (baseline) |   78.38%   |                -                |
-|             + RAG              |   80.54%   |             +2.16%              |
-|          + Graph RAG           |   82.70%   |             +4.32%              |
-|       + RAG + Graph RAG        | **85.41%** |             +7.03%              |
+|           Model Name           |  Accuracy  | Improvement Over Base | Avg. Response Time |
+| :----------------------------: | :--------: | :-------------------: | :----------------: |
+| internlm2_5-7b-chat (baseline) |   78.38%   |           -           |       0.28s        |
+|             + RAG              |   80.54%   |        +2.16%         |       4.74s        |
+|          + Graph RAG           |   82.70%   |        +4.32%         |       4.14s        |
+|       + RAG + Graph RAG        | **85.41%** |        +7.03%         |       7.63s        |
 
 ### Base model:InternLM2-5-7B-SFT
 
-|          Model Name           |  Accuracy  | Improvement Over The Base Model |
-| :---------------------------: | :--------: | :-----------------------------: |
-| internlm2_5-7b-sft (baseline) |   86.49%   |                -                |
-|             + RAG             |   84.32%   |             -2.17%              |
-|          + Graph RAG          |   89.19%   |             +2.70%              |
-|    + RAG + Graph RAG(MCM)     | **89.19%** |             +2.70%              |
+|          Model Name           |  Accuracy  | Improvement Over Base | Avg. Response Time |
+| :---------------------------: | :--------: | :-------------------: | :----------------: |
+| internlm2_5-7b-sft (baseline) |   86.49%   |           -           |       0.51s        |
+|             + RAG             |   84.32%   |        -2.17%         |       2.18s        |
+|          + Graph RAG          |   89.19%   |        +2.70%         |       4.21s        |
+|    + RAG + Graph RAG (MCM)    | **89.19%** |        +2.70%         |       3.38s        |
 
 - **Chat Version**: Both RAG and Graph RAG improve performance, with the combined approach yielding the best results (**+7.03%**).
 - **SFT Version:**
