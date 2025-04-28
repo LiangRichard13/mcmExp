@@ -83,7 +83,9 @@ Compare the performance of **InternLM2-5-7B-SFT** and **InternLM2-5-7B-Chat** on
     - Chroma-based retrieval: 0.6 (semantic similarity focus).
     - BM25: 0.4 (lexical/sparse retrieval focus).
 
-### Base model:internlm2_5-7b-chat 
+### Experiment Result
+
+#### Base model:internlm2_5-7b-chat 
 
 |           Model Name           |  Accuracy  | Improvement Over Base | Avg. Response Time |
 | :----------------------------: | :--------: | :-------------------: | :----------------: |
@@ -92,7 +94,7 @@ Compare the performance of **InternLM2-5-7B-SFT** and **InternLM2-5-7B-Chat** on
 |          + Graph RAG           |   82.70%   |        +4.32%         |       4.14s        |
 |       + RAG + Graph RAG        | **85.41%** |        +7.03%         |       7.63s        |
 
-### Base model:InternLM2-5-7B-SFT
+#### Base model:InternLM2-5-7B-SFT
 
 |          Model Name           |  Accuracy  | Improvement Over Base | Avg. Response Time |
 | :---------------------------: | :--------: | :-------------------: | :----------------: |
