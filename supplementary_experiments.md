@@ -10,7 +10,7 @@ This experiment investigates the performance impact of fine-tuning by comparing 
 ###  Benchmark Details
 
 - **Dataset source:**  [CMMLU Traditional-Chinese-Medicine-Benchmark](https://huggingface.co/datasets/shuyuej/CMMLU-Traditional-Chinese-Medicine-Benchmark)
-- **Dataset file**: 
+- **Dataset file:** 
   - [Open-ended question version](./data/test_tcm_benchmark/tcm_benchmark_converted.json)
   - [Single-choice version](./data/test_tcm_benchmark/traditional_chinese_medicine.json)
 
@@ -19,7 +19,7 @@ This experiment investigates the performance impact of fine-tuning by comparing 
 
 ###  Model Preparation
 
-- **Base model**: `internlm2_5-7b-chat`
+- **Base model:** `internlm2_5-7b-chat`
 - **Fine-tuning method:** QLoRA
 - **Training data:**
   - 1. Source: [ShenNong_TCM_Dataset](https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset)(113KQA pairs) -> 2. Quality enhancement: Processed using `deepseek-v3` -> 3. Data file:[Enhanced data file](./data/train_improved_qa/improved_output_converted.json)(16,314 QA pairs)
@@ -39,7 +39,7 @@ This experiment investigates the performance impact of fine-tuning by comparing 
   - Average training time per step: 1.3943s
   - Average data loading time: 0.0150s
   - Average memory usage: 15487.87 MB
-- **Visualization data**: `./train/20250427_083447/vis_data`
+- ****Visualization data:** `./train/20250427_083447/vis_data`
 
 
 ### Experiment Result
